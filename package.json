@@ -23,6 +23,6 @@
     "typescript": "5.0.4"
   },
   "devDependencies": {
-    "mongoose": "^7.0.4"
+    "mongoose": "^6.4.0"
   }
 }

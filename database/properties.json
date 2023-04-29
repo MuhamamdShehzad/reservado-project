@@ -1,8 +1,6 @@
 [
-    {
-      "user_id":1,
-      "id": "xyz456",
-      "images": [
+  {
+    "images": [
         "https://res.cloudinary.com/thirus/image/upload/v1632854291/logos/drawers_gr2wn5.jpg"
       ],
       "price": 700000,
@@ -14,43 +12,6 @@
       "kitchen": 1,
       "storeRoom": 0,
       "city": "Los Angeles",
-      "Location": "Los Angeles",
-      "status":"Active"
-    },
-     {
-      "user_id":1,
-      "id": "xyz476",
-      "images": [
-        "https://res.cloudinary.com/thirus/image/upload/v1632854291/logos/drawers_gr2wn5.jpg"
-      ],
-      "price": 700000,
-      "area": 2000,
-      "rent": true,
-      "bedRooms": 4,
-      "bathRooms": 3,
-      "diningRooms": 2,
-      "kitchen": 1,
-      "storeRoom": 0,
-      "city": "Los Angeles",
-      "Location": "Los Angeles",
-      "status":"Active"
-    },
-    {
-      "user_id":2,
-      "id": "xy4476",
-      "images": [
-        "https://res.cloudinary.com/thirus/image/upload/v1632854291/logos/drawers_gr2wn5.jpg"
-      ],
-      "price": 700000,
-      "area": 2000,
-      "rent": true,
-      "bedRooms": 4,
-      "bathRooms": 3,
-      "diningRooms": 2,
-      "kitchen": 1,
-      "storeRoom": 0,
-      "city": "Los Angeles",
-      "Location": "Los Angeles",
-      "status":"Active"
-    }
+      "Location": "Los Angeles"
+  }
 ]
